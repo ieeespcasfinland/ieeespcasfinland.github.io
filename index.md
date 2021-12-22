@@ -3,3 +3,6 @@
 
 March, 2022  
 
+
+
+[General information about IEEE seasonal schools.](https://signalprocessingsociety.org/community-involvement/seasonal-schools)
