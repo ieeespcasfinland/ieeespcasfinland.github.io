@@ -1,5 +1,4 @@
-
-= 2021 IEEE SPS Cycle 2 School on \n\n Networked Federated Learning: Theory, Algorithms and Applications
+= \n 2021 IEEE SPS Cycle 2 School on \n\n Networked Federated Learning: Theory, Algorithms and Applications
 ~~~
 {intro}{img_left}{SPS_Logo_Color_RGB.png}{alt text}{300}
 The IEEE Finland Jt. Chapter SP/CAS is organizing this seasonal school during March 2022. The aim of the school is to provide basic skills for applying federated learning techniques. We illustrate basic theory and algorithms for federated learning using a hypothetical smartphone app for predicting Covid-19 infections. The overall theme of this seasonal school is inspired by the recent LiveProject {{<a href="https://www.manning.com/liveprojectseries/federated-learning-ser" target="_blank">Federated Learning Over Networks for Pandemics</a>.}}
