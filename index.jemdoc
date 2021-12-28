@@ -3,31 +3,34 @@
 ~~~
 {}{img_left}{SPS_Logo_Color_RGB.png}{alt text}{300}
 The IEEE Finland Jt. Chapter SP/CAS is organizing this seasonal school during March 2022. The aim of the school is 
-to provide basic skills for applying federated learning techniques. We will illustrate basic theory and algorithms busing the task of 
-predicting Covid-19 infections from audio recordings collected by smartphones. 
+to provide basic skills for applying federated learning techniques. We will illustrate basic theory and algorithms 
+busing the task of predicting Covid-19 infections from audio recordings collected by smartphones. This seasonal school 
+is based on the LiveProject {{<a href="https://www.manning.com/liveprojectseries/federated-learning-ser" target="_blank">Federated Learning Over Networks for Pandemics</a>.}}. 
+~~~
+{}
+=== Tentative Schedule
+The school is organized into three modules (dates are TBC): 
+
+- Mo.  28.03., Machine Learning - Predicting Covid Infections from Coughs 
+- Tue. 29.03., Networks - Building und Analyzing Contact Networks  
+- Wed. 30.03., Federated Learning - Learning Personalized Covid Predictors 
+
+Each of these modules consists of lectures and hands-on assignments using Python notebooks. 
+
+We will then have two QnA sessions where participants can discuss their solutions to the assignments, 
+
+- Th. 31.03., QnA Session 1 
+- Fr. 01.04., QnA Session 2
+~~~
+{}
+=== Prerequisites: 
+- basic object-oriented programming (Python, Java, C++) 
+- basic linear algebra (concepts of vectors and matrices) 
+=== Learning Outcomes: 
+- basic flow control in Python 
+- training models using gradient descent 
+- models for networked data 
+- implement a FL algorithm by combining gradient descent with a simple averaging scheme
 ~~~
 
- 
-~~~
-The school is organized into three modules: 
-
-- Module 1: 
-- Module 2: 
-- Module 3: 
-
- 
-
-
-~~~
-
- 
-== Next bit, next heading level two
-
-=== Getting into level three now
- 
- 
-
-~~~
-
- 
 
