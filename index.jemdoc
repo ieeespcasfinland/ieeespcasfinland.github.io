@@ -25,10 +25,15 @@ We will then have two QnA sessions where participants can discuss their solution
 - basic object-oriented programming (Python, Java, C++) 
 - basic linear algebra (concepts of vectors and matrices) 
 === Learning Outcomes: 
-- basic flow control in Python 
-- training models using gradient descent 
-- models for networked data 
-- implement a FL algorithm by combining gradient descent with a simple averaging scheme
+After completing the school you should 
+- be familiar with basic flow control in Python 
+- be able to train models using gradient descent 
+- be familiar with basic network models 
+- be able to implement network averaging methods 
+- be able to implement FL algorithms for learning personalised models
 ~~~
+{} 
+=== Registration:
+{{<a href="https://events.vtools.ieee.org/event/register/297208" target="_blank">Click here for a free registration.</a>}}  
 
 
