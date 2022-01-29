@@ -1,18 +1,18 @@
 = \n 2021 IEEE SPS Cycle 2 School on \n\n Networked Federated Learning: Theory, Algorithms and Applications
 
-This school teaches basic theory and algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked federated learning aims at learning tailored (personalized) models for local datasets that are related by some network structure. Such networked data arises in pandemics where local datasets are collected by smartphones or wearables of humans. These local datasets are related by different networks such as contact networks or co-morbidity networks. Networked federated learning allows to learn personalized models for predicting the individual risk of a Covid-19 infection based on the local datasets of contact persons. 
+This school teaches basic theory and algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked FL aims at learning tailored (personalized) models for local datasets that are related by some {{<a href="https://en.wikipedia.org/wiki/Complex_network" target="_blank">complex network structure</a>}}. Such networked data arises in pandemics where local datasets are collected by smartphones or wearables of humans. These local datasets are related by different networks such as {{<a href="https://en.wikipedia.org/wiki/Contact_tracing" target="_blank">contact networks</a>}}. Networked FL allows to learn personalized models for predicting the individual risk of a Covid-19 infection based on the local datasets of contact persons. 
 
 === Prerequisites: 
 - basic knowledge in programming with Python: flow control, functions, numpy-arrays
 - linear algebra: vectors, matrices, eigenvalues
 
-== Learning Outcomes:
+=== Learning Outcomes:
 After completing the school, participants 
 - are familiar with the concept of regularized empirical risk minimization (RERM)
 - understand the principle of gradient descent for solving RERM 
 - can implement basic ML methods in Python 
 - can use graphs to represent networked data and ML models 
-- can apply and critically evaluate federated learning methods
+- can apply and critically evaluate FL methods
 
 == Tentative Schedule 
 Each day consists of lectures and exercises. 
@@ -28,9 +28,9 @@ Each day consists of lectures and exercises.
   <tr style=font-size:20px>
     <td>  <b> Machine Learning </b> </td>
     <td> <b> Networks</b></td>
-    <td><b> Federated Learning</b></td>
-    <td><b> Clustered Federated Learning</b></td>
-    <td><b>  Advanced Topics</b></td>
+    <td><b>  Basic FL</b></td>
+    <td><b> Clustered FL</b></td>
+    <td><b> Trustworthy FL </b></td>
   </tr>
   <tr>
     <td style="text-align:left"> Data, Model, Loss</td>
@@ -42,9 +42,9 @@ Each day consists of lectures and exercises.
   <tr>
     <td style="text-align:left">Linear and Logistic Regression </td>
     <td style="text-align:left">Spectrum of Laplacian</td>
-    <td style="text-align:left"> Centralized Federated learning  </td>
+    <td style="text-align:left"> Centralized FL  </td>
     <td style="text-align:left"> Total Variation Minimization</td>
-    <td style="text-align:left"> Inter- and Explainability </td>
+    <td style="text-align:left"> Explainability </td>
   </tr>
   <tr>
     <td style="text-align:left"> Stoch. Gradient Descent </td>
@@ -57,10 +57,10 @@ Each day consists of lectures and exercises.
 
 == References
 
-- S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein, "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers," Foundations and Trends in Machine Learning, 3(1):1–122, 2011.
+- S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein, "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers," Foundations and Trends in Machine Learning, 3(1):1–122, 2011. {{<a href="https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf" target="_blank">weblink</a>.}}
 - D. A. Spielman, "Spectral and Algebraic Graph Theory," Incomplete Draft, Yale University, 2019 {{<a href="http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf" target="_blank">weblink</a>.}}
 - A. Jung, "Federated Learning Over Networks for Pandemics," LiveProject, Manning Publishers, 2021 {{<a href="https://www.manning.com/liveprojectseries/federated-learning-ser" target="_blank">weblink</a>.}}
-- A. Jung, "Machine Learning: The Basics," Springer, Singapore, 2022. draft:  {{<a href="https://mlbook.cs.aalto.fi" target="_blank">draft</a>.}}
+- A. Jung, "Machine Learning: The Basics," Springer, Singapore, 2022. {{<a href="https://mlbook.cs.aalto.fi" target="_blank">draft</a>.}}
 ~~~
 {} 
 
