@@ -1,6 +1,6 @@
 = \n 2021 IEEE SPS Cycle 2 School on \n\n Networked Federated Learning: Theory, Algorithms and Applications
 
-This school teaches basic theory and algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked FL aims at learning tailored (personalized) models for local datasets that are related by some {{<a href="https://en.wikipedia.org/wiki/Complex_network" target="_blank">complex network structure</a>}}. Such networked data arises in pandemics where local datasets are collected by smartphones or wearables of humans. These local datasets are related by different networks such as {{<a href="https://en.wikipedia.org/wiki/Contact_tracing" target="_blank">contact networks</a>}}. Networked FL allows to learn personalized models for predicting the individual risk of a Covid-19 infection based on the local datasets of contact persons. Another application domain for networked FL is the industrial internet of things (IoT). Here, networked FL allows to implement high-precision condition monitoring of interconnected devices. 
+This school teaches theoretic underpinnings and practical algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked FL provides tailored (personalized) models for local datasets that are related by some {{<a href="https://en.wikipedia.org/wiki/Complex_network" target="_blank">complex network structure</a>}}. Such networked data arises in several important application domains such as pandemics or the industrial internet of things. 
 
 === Prerequisites: 
 - basic knowledge in programming with Python: flow control, functions, numpy-arrays
@@ -57,6 +57,7 @@ Each day consists of lectures and exercises.
 
 == References
 
+- Cui, S., Hero, III, A., Luo, Z., & Moura, J. (Eds.). (2016). Big Data over Networks. Cambridge: Cambridge University Press. doi:10.1017/CBO9781316162750
 - S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein, "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers," Foundations and Trends in Machine Learning, 3(1):1–122, 2011. {{<a href="https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf" target="_blank">weblink</a>.}}
 - D. A. Spielman, "Spectral and Algebraic Graph Theory," Incomplete Draft, Yale University, 2019 {{<a href="http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf" target="_blank">weblink</a>.}}
 - A. Jung, "Federated Learning Over Networks for Pandemics," LiveProject, Manning Publishers, 2021 {{<a href="https://www.manning.com/liveprojectseries/federated-learning-ser" target="_blank">weblink</a>.}}

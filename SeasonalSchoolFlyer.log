@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.26)  30 DEC 2021 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.26)  31 JAN 2022 10:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -604,62 +604,65 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 52.
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 91.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 91.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 91.
 
-Underfull \hbox (badness 3536) in paragraph at lines 91--92
-[]\OT1/cmr/bx/n/14.4 This sea-sonal school is in-spired by the re-cent Live-
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-\OT1/cmr/bx/n/14.4 Pro-ject []$\OT1/cmtt/m/n/14.4 https : / / www . manning . c
-om / liveprojectseries /
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
  []
 
-<SPS_Logo_Color_RGB.png, id=10, 368.8179pt x 231.0231pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+<SPS_Logo_Color_RGB.png, id=9, 368.8179pt x 231.0231pt>
 File: SPS_Logo_Color_RGB.png Graphic file (type png)
 <use SPS_Logo_Color_RGB.png>
-Package pdftex.def Info: SPS_Logo_Color_RGB.png  used on input line 94.
+Package pdftex.def Info: SPS_Logo_Color_RGB.png  used on input line 99.
 (pdftex.def)             Requested size: 88.8445pt x 55.65372pt.
-<ieeelogo.png, id=12, 642.4pt x 361.35pt>
-File: ieeelogo.png Graphic file (type png)
-<use ieeelogo.png>
-Package pdftex.def Info: ieeelogo.png  used on input line 96.
-(pdftex.def)             Requested size: 98.93382pt x 55.65372pt.
-<aaltologo.png, id=13, 1204.5pt x 1003.75pt>
+<horizon2020.png, id=11, 112.6755pt x 73.9125pt>
+File: horizon2020.png Graphic file (type png)
+<use horizon2020.png>
+Package pdftex.def Info: horizon2020.png  used on input line 101.
+(pdftex.def)             Requested size: 84.84338pt x 55.65372pt.
+<aaltologo.png, id=12, 1204.5pt x 1003.75pt>
 File: aaltologo.png Graphic file (type png)
 <use aaltologo.png>
-Package pdftex.def Info: aaltologo.png  used on input line 98.
+Package pdftex.def Info: aaltologo.png  used on input line 103.
 (pdftex.def)             Requested size: 66.7715pt x 55.65372pt.
+<AoFLogo.png, id=13, 145.54375pt x 83.31125pt>
+File: AoFLogo.png Graphic file (type png)
+<use AoFLogo.png>
+Package pdftex.def Info: AoFLogo.png  used on input line 105.
+(pdftex.def)             Requested size: 97.22731pt x 55.65372pt.
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./SPS_L
-ogo_Color_RGB.png> <./ieeelogo.png> <./aaltologo.png>]
+ogo_Color_RGB.png> <./horizon2020.png> <./aaltologo.png> <./AoFLogo.png>]
 (./SeasonalSchoolFlyer.aux)
 Package rerunfilecheck Info: File `SeasonalSchoolFlyer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18556 strings out of 478994
- 343769 string characters out of 5858183
- 628509 words of memory out of 5000000
+ 18555 strings out of 478994
+ 343771 string characters out of 5858183
+ 629509 words of memory out of 5000000
  35736 multiletter control sequences out of 15000+600000
- 408200 words of font info for 43 fonts, out of 8000000 for 9000
+ 407416 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 113i,7n,116p,421b,421s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 113i,7n,116p,521b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><
-/usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on SeasonalSchoolFlyer.pdf (1 page, 197431 bytes).
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on SeasonalSchoolFlyer.pdf (1 page, 206241 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 25 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
