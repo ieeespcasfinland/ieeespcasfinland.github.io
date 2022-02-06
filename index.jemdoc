@@ -33,7 +33,7 @@ Each day consists of lectures and exercises.
     <td><b> Trustworthy FL </b></td>
   </tr>
   <tr>
-    <td style="text-align:left"> Data, Model, Loss</td>
+    <td style="text-align:left"> <a href="DataModelLoss.html" target="_blank"> Data, Model, Loss</a></td>
     <td style="text-align:left"> Graphs and their Matrices</td>
     <td style="text-align:left"> Networked Data </td>
     <td style="text-align:left"> Networked Models </td>
