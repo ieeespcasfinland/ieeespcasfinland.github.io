@@ -40,7 +40,7 @@ Each day consists of lectures and exercises.
     <td style="text-align:left"> Privacy-Preservation</td>
   </tr>
   <tr>
-    <td style="text-align:left"> Linear and Logistic Regression </td>
+    <td style="text-align:left">  <a href="https://ieeespcasfinland.github.io/linmodel.html" target="_blank"> Linear and Logistic Regression </a> </td>
     <td style="text-align:left"> Spectrum of Laplacian</td>
     <td style="text-align:left"> Centralized FL  </td>
     <td style="text-align:left"> Total Variation Minimization</td>

@@ -1,0 +1,34 @@
+= \n 2021 IEEE SPS Cycle 2 School on \n\n Networked Federated Learning: Theory, Algorithms and Applications
+
+= Linear and Logistic Regression 
+
+This module explains two widely used ML methods that both use the same model. This model consists of linear maps applied to a feature vector. The parameters of this linear model are chosen by minimising the average loss incurred on a training set. Linear regression uses the squared error loss which is well suited for numeric label values. Logistic regression uses the logistic loss which is well suited for binary classification problems. 
+
+
+== Learning Outcomes
+
+After completing this module, participants 
+- know about the linear model as a parametrized space of linear maps 
+- know basic properties of squared error loss and logistic loss 
+- can use Python to learn linear maps for regression or binary classification 
+
+== Reading Assignment
+
+Section 3.1 and 3.6 of {{<a href="https://mlbook.cs.aalto.fi" target="_blank"> A. Jung, "Machine Learning: The Basics", Springer, 2022 </a>}}
+
+
+== Additional Material 
+
+{{<a href="https://youtube.com/playlist?list=PLrbn2dGrLJK-1s3DTfi7ZXxaB5lkIRHHM" target="_blank"> YouTube Playlist </a>}}
+
+
+== Exercise
+
+TBA
+
+
+
+
+
+
+
