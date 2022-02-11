@@ -57,10 +57,17 @@ Each day consists of lectures and exercises.
 
 == References
 
-- Cui, S., Hero, III, A., Luo, Z., & Moura, J. (Eds.). (2016). Big Data over Networks. Cambridge: Cambridge University Press. doi:10.1017/CBO9781316162750
 - S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein, "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers," Foundations and Trends in Machine Learning, 3(1):1–122, 2011. {{<a href="https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf" target="_blank">weblink</a>.}}
+
 - D. A. Spielman, "Spectral and Algebraic Graph Theory," Incomplete Draft, Yale University, 2019 {{<a href="http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf" target="_blank">weblink</a>.}}
+
+- K. Avrachenkov, L. Cottatellucci, A. Kadavankandy. Spectral Properties of Random
+Matrices for Stochastic Block Model. Report RR-8703, INRIA Sophia-Antipolis, France; 2015; {{<a href="https://hal.inria.fr/hal-01142944/document" target="_blank">weblink</a>.}} 
+
 - A. Jung, "Federated Learning Over Networks for Pandemics," LiveProject, Manning Publishers, 2021 {{<a href="https://www.manning.com/liveprojectseries/federated-learning-ser" target="_blank">weblink</a>.}}
+
+- Cui, S., Hero, III, A., Luo, Z., & Moura, J. (Eds.). (2016). Big Data over Networks. Cambridge: Cambridge University Press. doi:10.1017/CBO9781316162750
+
 - A. Jung, "Machine Learning: The Basics," Springer, Singapore, 2022. {{<a href="https://mlbook.cs.aalto.fi" target="_blank">draft</a>.}}
 ~~~
 {} 
