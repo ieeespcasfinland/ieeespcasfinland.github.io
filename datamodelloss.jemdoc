@@ -1,9 +1,6 @@
-= \n 2021 IEEE SPS Cycle 2 School on \n\n Networked Federated Learning: Theory, Algorithms and Applications
-
-= Data, Model and Loss
+= Module: Data, Model and Loss
 
 This module explains the three main components of machine learning: data, model and loss. ML methods are obtained by combining specific design choices for data representation, model and loss. 
-
 
 == Learning Outcomes
 
@@ -17,11 +14,9 @@ After completing this module, participants
 
 Chapter 2 of {{<a href="https://mlbook.cs.aalto.fi" target="_blank"> A. Jung, "Machine Learning: The Basics", Springer, 2022 </a>}}
 
-
 == Additional Material 
 
 {{<a href="https://youtube.com/playlist?list=PLrbn2dGrLJK9zB7pdEd8QOtmC9-eoqoch" target="_blank"> YouTube Playlist </a>}}
-
 
 == Exercise
 

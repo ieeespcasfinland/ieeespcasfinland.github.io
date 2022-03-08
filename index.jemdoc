@@ -28,19 +28,19 @@ Each day consists of lectures and exercises.
   <tr style=font-size:20px>
     <td>  <b> Machine Learning </b> </td>
     <td> <b> Networks</b></td>
-    <td><b>  Basic FL</b></td>
+    <td><b> Basic FL</b></td>
     <td><b> Clustered FL</b></td>
     <td><b> Trustworthy FL </b></td>
   </tr>
   <tr>
-    <td style="text-align:left"> <a href="https://ieeespcasfinland.github.io/datamodelloss.html" target="_blank"> Data, Model, Loss</a></td>
+    <td style="text-align:left"> <a href="datamodelloss.html" target="_blank"> Data, Model, Loss</a></td>
     <td style="text-align:left"> Graphs and their Matrices</td>
     <td style="text-align:left"> Networked Data </td>
     <td style="text-align:left"> Networked Models </td>
     <td style="text-align:left"> Privacy-Preservation</td>
   </tr>
   <tr>
-    <td style="text-align:left">  <a href="https://ieeespcasfinland.github.io/linmodel.html" target="_blank"> Linear and Logistic Regression </a> </td>
+    <td style="text-align:left">  <a href="linmodel.html" target="_blank"> Linear and Logistic Regression </a> </td>
     <td style="text-align:left"> Spectrum of Laplacian</td>
     <td style="text-align:left"> Centralized FL  </td>
     <td style="text-align:left"> Total Variation Minimization</td>
@@ -54,6 +54,34 @@ Each day consists of lectures and exercises.
     <td style="text-align:left"> Legal Aspects </td>
   </tr>
 </table>}}
+
+== Guest Lectures 
+
+~~~
+{}{img_left}{Konstantin.png}{70}{140}{Prof. Konstantin Avratchenkov}
+Prof. Konstantin Avratchenkov\n
+
+Lecture: Basics of spectral graph theory\n
+
+Date and Time: Mo., 28.03.2022 at 11:00 (local Helsinki time) \n
+
+zoom link: TBA \n
+
+[https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html *Personal website*] 
+~~~
+
+~~~
+{}{img_left}{wojciech.jpg}{70}{140}{Dr. Wojciech Samek}
+Dr. Wojciech Samek\n
+
+Lecture: Towards Communication-Efficient and Personalized Federated Learning\n
+
+Date and Time: Thu., 31.03.2022 at 13:00 (local Helsinki time) \n
+
+zoom link: TBA \n
+
+[http://iphome.hhi.de/samek/ *Personal website*] 
+~~~
 
 == References
 

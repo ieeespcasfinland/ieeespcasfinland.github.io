@@ -1,6 +1,4 @@
-= \n 2021 IEEE SPS Cycle 2 School on \n\n Networked Federated Learning: Theory, Algorithms and Applications
-
-= Linear and Logistic Regression 
+= Module: Linear Methods
 
 This module explains two widely used ML methods that both use the same model. This model consists of linear maps applied to a feature vector. The parameters of this linear model are chosen by minimising the average loss incurred on a training set. Linear regression uses the squared error loss which is well suited for numeric label values. Logistic regression uses the logistic loss which is well suited for binary classification problems. 
 
