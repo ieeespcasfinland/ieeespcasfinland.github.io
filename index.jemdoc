@@ -2,11 +2,11 @@
 
 This school teaches theoretic underpinnings and practical algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked FL provides tailored (personalized) models for local datasets that are related by some {{<a href="https://en.wikipedia.org/wiki/Complex_network" target="_blank">complex network structure</a>}}. Such networked data arises in several important application domains such as pandemics or the industrial internet of things. 
 
-=== Prerequisites: 
+== Prerequisites: 
 - basic knowledge in programming with Python: flow control, functions, numpy-arrays
 - linear algebra: vectors, matrices, eigenvalues
 
-=== Learning Outcomes:
+== Learning Outcomes:
 After completing the school, participants 
 - are familiar with the concept of regularized empirical risk minimization (RERM)
 - understand the principle of gradient descent for solving RERM 
@@ -14,9 +14,11 @@ After completing the school, participants
 - can use graphs to represent networked data and ML models 
 - can apply and critically evaluate FL methods
 
-== Tentative Schedule 
-Each day consists of lectures and exercises. 
+== School Format 
+This school consists of virtual lectures (via zoom) and exercises. The lectures will be recorded and made available on this site throughout the school. 
+The exercises consist of Python notebooks and a discussion forum (Slack): [https://join.slack.com/t/ieeeseasonalschoolnfl/shared_invite/zt-15hbdr90x-NafzYle8BlivoW09Q8YliA click here to join]
 
+== Tentative Schedule 
 {{<table>
   <tr>
     <td>Mo. 28.03.</td>
@@ -52,6 +54,13 @@ Each day consists of lectures and exercises.
     <td style="text-align:left"> Gossip, Consensus </td>
     <td style="text-align:left"> Distributed SGD </td>
     <td style="text-align:left"> Legal Aspects </td>
+  </tr>
+  <tr>
+    <td style="text-align:left"> <a href="NFL_Exercise1.ipynb" target="_blank"> Exercise 1 </a> </td>
+    <td style="text-align:left"> Exercise 2 </td>
+    <td style="text-align:left"> Exercise 3 </td>
+    <td style="text-align:left"> Exercise 4 </td>
+    <td style="text-align:left"> Exercise 5 </td>
   </tr>
 </table>}}
 
