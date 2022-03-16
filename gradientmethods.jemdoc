@@ -1,0 +1,28 @@
+= Gradient-Based Learning
+
+Each ML method uses data to train a model (or learn a hypothesis within a model) by minimizing a loss function that measures the discrepancy between predictions and actual observations. Empirical risk minimization (ERM) uses the average of loss values incurred by a given hypothesis on a set of labeled data points (the training set). ERM amounts to an optimization problem that can be solved using optimization methods. 
+
+The properties of this optimization problem depends on the combination of data representation, model and loss function. For linear and logistic regression, ERM amounts to minimizing a smooth (differentiable with Lipschitz continuous gradient) and convex function. Such functions can be minimized using (variants) of gradient descent (GD). GD methods iteratively modify (or improve) a given guess for the model parameters. The elementary unit of GD methods is the GD step which updates a current parameter vector by a scaled version of the negative gradient. 
+
+== Learning Outcomes
+
+After completing this module, participants 
+- know the basic principle of updating parameters by gradient steps 
+- are aware of the effect of the learning rate/step size
+
+== Reading
+
+- Chapter 4.1 - 4.3 and 
+- Chapter 5.1 - 5.5 of {{<a href="https://mlbook.cs.aalto.fi" target="_blank"> A. Jung, "Machine Learning: The Basics", Springer, 2022 </a>}}
+
+== Videos
+
+{{<a href="https://www.youtube.com/watch?v=XdM6ER7zTLk" target="_blank"> Linear Regression with Gradient Descent </a>}}
+
+
+
+
+
+
+
+

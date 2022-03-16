@@ -1,78 +1,34 @@
-= \n 2021 IEEE SPS Cycle 2 School on \n\n Networked Federated Learning: Theory, Algorithms and Applications
+= \n 2021 IEEE SPS Cycle 2 Virtual School on \n\n Networked Federated Learning: Theory, Algorithms and Applications \n\n 28.3. - 01.04.2022
 
-This school teaches theoretic underpinnings and practical algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked FL provides tailored (personalized) models for local datasets that are related by some {{<a href="https://en.wikipedia.org/wiki/Complex_network" target="_blank">complex network structure</a>}}. Such networked data arises in several important application domains such as pandemics or the industrial internet of things. 
-
-== Prerequisites: 
-- basic knowledge in programming with Python: flow control, functions, numpy-arrays
-- linear algebra: vectors, matrices, eigenvalues
-
-== Learning Outcomes:
-After completing the school, participants 
-- are familiar with the concept of regularized empirical risk minimization (RERM)
-- understand the principle of gradient descent for solving RERM 
-- can implement basic ML methods in Python 
-- can use graphs to represent networked data and ML models 
-- can apply and critically evaluate FL methods
+This school teaches theoretic underpinnings and practical algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked FL provides tailored (personalized) models for local datasets that are related by some {{<a href="https://en.wikipedia.org/wiki/Complex_network" target="_blank">complex network structure</a>}}. Such networked data arises in several important application domains such as pandemics, meteorology or the industrial internet of things. 
 
 == School Format 
+
 This school consists of virtual lectures (via zoom) and exercises. The lectures will be recorded and made available on this site throughout the school. 
 The exercises consist of Python notebooks and a discussion forum (Slack): [https://join.slack.com/t/ieeeseasonalschoolnfl/shared_invite/zt-15hbdr90x-NafzYle8BlivoW09Q8YliA click here to join]
 
-== Tentative Schedule 
-{{<table>
-  <tr>
-    <td>Mo. 28.03.</td>
-    <td>Tue. 29.03.</td>
-    <td>Wed. 30.03.</td>
-    <td>Th.  31.03.</td>
-    <td>Fr.  01.04.</td>
-  </tr>
-  <tr style=font-size:20px>
-    <td>  <b> Machine Learning </b> </td>
-    <td> <b> Networks</b></td>
-    <td><b> Basic FL</b></td>
-    <td><b> Clustered FL</b></td>
-    <td><b> Trustworthy FL </b></td>
-  </tr>
-  <tr>
-    <td style="text-align:left"> <a href="datamodelloss.html" target="_blank"> Data, Model, Loss</a></td>
-    <td style="text-align:left"> Graphs and their Matrices</td>
-    <td style="text-align:left"> Networked Data </td>
-    <td style="text-align:left"> Networked Models </td>
-    <td style="text-align:left"> Privacy-Preservation</td>
-  </tr>
-  <tr>
-    <td style="text-align:left">  <a href="linmodel.html" target="_blank"> Linear and Logistic Regression </a> </td>
-    <td style="text-align:left"> Spectrum of Laplacian</td>
-    <td style="text-align:left"> Centralized FL  </td>
-    <td style="text-align:left"> Total Variation Minimization</td>
-    <td style="text-align:left"> Explainability </td>
-  </tr>
-  <tr>
-    <td style="text-align:left"> Gradient-Based Learning </td>
-    <td style="text-align:left"> Cluster Structure</td>
-    <td style="text-align:left"> Gossip, Consensus </td>
-    <td style="text-align:left"> Distributed SGD </td>
-    <td style="text-align:left"> Legal Aspects </td>
-  </tr>
-  <tr>
-    <td style="text-align:left"> <a href="NFL_Exercise1.ipynb" target="_blank"> Exercise 1 </a> </td>
-    <td style="text-align:left"> Exercise 2 </td>
-    <td style="text-align:left"> Exercise 3 </td>
-    <td style="text-align:left"> Exercise 4 </td>
-    <td style="text-align:left"> Exercise 5 </td>
-  </tr>
-</table>}}
+== Lectures 
 
-== Guest Lectures 
+~~~
+{}{img_left}{AlexHat.jpg}{70}{140}{Prof. Alex Jung}
+Prof. Alex Jung, Aalto University\n
+
+Lecture: School Logistics. Introduction to Networked Federated Learning. \n
+
+Date and Time: Mo., 28.03.2022 at 11:00- 13:00 (local Helsinki time) \n
+
+zoom link: TBA \n
+
+[https://users.aalto.fi/~junga1/ *Personal Site*] 
+~~~
 
 ~~~
 {}{img_left}{Konstantin.png}{70}{140}{Prof. Konstantin Avratchenkov}
-Prof. Konstantin Avratchenkov\n
+Prof. Konstantin Avratchenkov, INRIA\n
 
 Lecture: Basics of spectral graph theory\n
 
-Date and Time: Tue., 29.03.2022 at 11:00 (local Helsinki time) \n
+Date and Time: Tue., 29.03.2022 at 11:00- 13:00 (local Helsinki time) \n
 
 zoom link: TBA \n
 
@@ -80,8 +36,34 @@ zoom link: TBA \n
 ~~~
 
 ~~~
+{}{img_left}{SimoS.png}{70}{140}{Prof. Simo Särkkä}
+Prof. Simo Särkkä, Aalto University\n
+
+Lecture: Parallel/distributed methods for state-space models \n
+
+Date and Time: Wed., 30.03.2022, 10:00 - 11:00 (local Helsinki time) \n
+
+zoom link: TBA \n
+
+[https://users.aalto.fi/~ssarkka/ *Personal Site*] 
+~~~
+
+~~~
+{}{img_left}{Hamed.png}{70}{140}{Dr. Hamed R. Tavakoli}
+Dr. Hamed R. Tavakoli, Nokia Technologies\n
+
+Lecture: Compact and efficient neural networks, steps towards communication efficient Federated Learning\n
+
+Date and Time: Wed., 30.03.2022, 12:30 - 13:30 (local Helsinki time) \n
+
+zoom link: TBA \n
+
+[https://fi.linkedin.com/in/hrtavakoli *Personal Site*] 
+~~~
+
+~~~
 {}{img_left}{wojciech.jpg}{70}{140}{Dr. Wojciech Samek}
-Dr. Wojciech Samek\n
+Dr. Wojciech Samek, Fraunhofer Heinrich Hertz Institute \n
 
 Lecture: Towards Communication-Efficient and Personalized Federated Learning\n
 
@@ -89,12 +71,12 @@ Date and Time: Thu., 31.03.2022 at 13:00 - 14:00 (local Helsinki time) \n
 
 zoom link: TBA \n
 
-[http://iphome.hhi.de/samek/ *Personal website*] 
+[http://iphome.hhi.de/samek/ *Personal Site*] 
 ~~~
 
 ~~~
 {}{img_left}{CarloF.jpg}{70}{140}{Prof. Carlo Fischione}
-Prof. Carlo Fischione\n
+Prof. Carlo Fischione, KTH Stockholm\n
 
 Lecture: Communication-computation Efficient Distributed Machine Learning \n
 
@@ -102,9 +84,21 @@ Date and Time: Thu., 31.03.2022 at 14:30 - 15:30 (local Helsinki time) \n
 
 zoom link: TBA \n
 
-[https://people.kth.se/~carlofi/ *Personal website*] 
+[https://people.kth.se/~carlofi/ *Personal Site*] 
 ~~~
 
+~~~
+{}{img_left}{Anna.jpg}{70}{140}{Dipl. -Ing. Anna Saranti}
+Dipl. -Ing. Anna Saranti, Medical University Graz\n
+
+Lecture: Explainable AI \n
+
+Date and Time: Fr., 01.04.2022 at 11:00 - 12:00 (local Helsinki time) \n
+
+zoom link: TBA \n
+
+[https://www.linkedin.com/in/dipl-ing-anna-saranti-865b7812a/ *Personal Site*] 
+~~~
 
 == References
 
