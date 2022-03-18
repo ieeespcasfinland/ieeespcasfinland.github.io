@@ -1,4 +1,6 @@
-= \n 2021 IEEE SPS Cycle 2 Virtual School on \n\n Networked Federated Learning: Theory, Algorithms and Applications \n\n 28.3. - 01.04.2022
+= 2021 IEEE SPS Cycle 2 Virtual School on \n Networked Federated Learning: Theory, Algorithms and Applications \n 28.3. - 01.04.2022. 
+
+== {{<a href="https://events.vtools.ieee.org/event/register/297208" target="_blank">Click here for a free registration.</a>}}  
 
 This school teaches theoretic underpinnings and practical algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked FL provides tailored (personalized) models for local datasets that are related by some {{<a href="https://en.wikipedia.org/wiki/Complex_network" target="_blank">complex network structure</a>}}. Such networked data arises in several important application domains such as pandemics, meteorology or the industrial internet of things. 
 
@@ -151,9 +153,6 @@ Matrices for Stochastic Block Model. Report RR-8703, INRIA Sophia-Antipolis, Fra
     <td>IEEE Vizag Bay Chapter COMSOC/SPS </td>
   </tr>
 </table>}}
-
-=== Registration:
-{{<a href="https://events.vtools.ieee.org/event/register/297208" target="_blank">Click here for a free registration.</a>}}  
 
 === Acknowledgment 
 This seasonal school is supported by the IEEE Signal Processing Society and the Department of Computer Science at Aalto University. The school is also supported by the TalTech Industrial project. TalTech Industrial has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 952410. We also acknowledge support received from the Academy of Finland, via the project ‘‘Intelligent Techniques in Condition Monitoring of Electromechanical Energy Conversion Systems,’’ (decision number 331197). 
