@@ -1,0 +1,15 @@
+= \n 2021 IEEE SPS Cycle 2 Virtual School on \n\n Networked Federated Learning: Theory, Algorithms and Applications \n\n 28.3. - 01.04.2022
+
+~~~
+{}{img_left}{wojciech.jpg}{70}{140}{Dr. Wojciech Samek}
+Dr. Wojciech Samek, Fraunhofer Heinrich Hertz Institute \n
+[http://iphome.hhi.de/samek/ *Personal Site*] \n
+
+*Lecture*: Towards Communication-Efficient and Personalized Federated Learning\n
+
+*Abstract*: Distributed training schemes for ML are becoming increasingly relevant. A major issue in distributed training is, however, the limited communication bandwidth between contributing nodes or prohibitive communication cost in general. This talk will investigate new methods for reducing the communication cost in federated averaging and federated distillation setups, and will give a first-hand summary of the relevant standardization activities in this area, in particular the new MPEG part-17 standard for neural network compression (NNC). Furthermore, the talk will show how to effectively overcome another important limiting factor in FL, namely the lack of personalization. After introducing the Clustered Federated Learning (CFL) algorithm and showing that it provably identifies groups of clients with different preferences, the talk will conclude with a discussion of future research directions.  \n 
+
+*Presenter*: Wojciech Samek is head of the Department of Artificial Intelligence and the Explainable AI Group at Fraunhofer Heinrich Hertz Institute (HHI), Berlin, Germany. He studied computer science in Berlin and Edinburgh and received the Ph.D. degree with distinction from the Technical University of Berlin in 2014. He is associated faculty at the BIFOLD - Berlin Institute for the Foundation of Learning and Data, the ELLIS Unit Berlin and the DFG Graduate School BIOQIC, and member of the scientific advisory board of IDEAS NCBR. Furthermore, he is an editorial board member of PLoS ONE, Pattern Recognition and IEEE TNNLS and an elected member of the IEEE MLSP Technical Committee. He is recipient of multiple best paper awards, including the 2020 Pattern Recognition Best Paper Award, and part of the expert group developing the ISO/IEC MPEG-17 NNR standard. He is the leading editor of the Springer book "Explainable AI: Interpreting, Explaining and Visualizing Deep Learning" and organizer of various special sessions, workshops and tutorials on topics such as explainable AI, neural network compression, and federated learning. \n\n 
+
+
+

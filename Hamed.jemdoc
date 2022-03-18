@@ -1,0 +1,16 @@
+= \n 2021 IEEE SPS Cycle 2 Virtual School on \n\n Networked Federated Learning: Theory, Algorithms and Applications \n\n 28.3. - 01.04.2022
+
+~~~
+{}{img_left}{hamed.jpg}{70}{140}{Dr. Hamed R. Tavakoli}
+Dr. Hamed R. Tavakoli, Nokia Technologies\n
+[https://fi.linkedin.com/in/hrtavakoli *Personal Site*] \n 
+
+*Lecture*: Compact and Efficient Neural Networks, Steps Towards Communication Efficient Federated Learning\n
+
+*Abstract*: Deep Neural Networks are gaining significant amount of attention in academia and industry. Today, we are observing the emergence NN-based solutions at various industries in specific mobile devices. To achieve this, the deep neural networks must be compact and efficient, that is they could fit into a relatively small device and require less computational power. Secondly, in industries where the services are constantly improved and updates are available to the users, we require such neural networks to be deployable at scale. This talk is about how to obtain a compact and efficient neural network and how such compactness could be used in federated learning to enhance the communication efficiency. To start, we touch base the basics of compactization of neural networks, for example, sparsification and pruning technologies. We continue with an overview of quantization techniques that are used at scale for deployment of NNs. Then, we make a bridge to communication efficiency where we will briefly discuss MPEG NNC standard as an industrial test bed. We, then, continue with the techniques that could be adapted to communication efficiency for federated learning. We will overview some of the methods from distributed learning of neural networks. Then, we delve into different communication efficient federated learning schemes. We will discuss about algorithms that are agnostic to the federation algorithms and federation specific algorithms where some assumptions are required.  \n 
+
+*Presenter*: Hamed R. Tavakoli is a principal scientist at Nokia Technologies, Finland. He has been leading the neural network compression and federated learning over the past few years. Prior to joining Nokia, Hamed was with the Aalto university, where has been researching machine learning with the focus on computer vision and its intersection with natural language processing. \n\n 
+
+*Note*: The talk is based on the publicly available research that has been carried out at Nokia Technologies and contributed to MPEG NNC standardization and the vastly available techniques that are developed by academia and industry.
+
+
