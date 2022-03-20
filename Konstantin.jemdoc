@@ -1,0 +1,30 @@
+= \n 2021 IEEE SPS Cycle 2 Virtual School on \n\n Networked Federated Learning: Theory, Algorithms and Applications \n\n 28.3. - 01.04.2022
+
+~~~
+{}{img_left}{Konstantin.png}{70}{140}{Prof. Konstantin Avratchenkov}
+Prof. Konstantin Avratchenkov, INRIA\n
+[https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html *Personal website*] 
+
+*Lecture*: Basics of spectral graph theory\n
+
+*Abstract*: Questions related to the spectra of graph matrices, such as adjacency matrix, Laplacian and normalized Laplacian,
+naturally appear in the analysis of consensus algorithms, graph-based semi-supervised learning and network sampling.
+In this lecture, we first review the basic properties of spectra of graph matrices. Then, we explain the elements
+of the two main methods of random matrix theory: the method of moments and the method of Stieltjes transform.
+Finally, we describe the spectra of graph matrices associated with Erdos-Renyi graph, stochastic block model
+and random geometric graphs. \n 
+
+*Presenter*: Konstantin Avrachenkov received Master degree in Control Theory from St. Petersburg
+State Polytechnic University (1996), Ph.D. degree in Mathematics from University of South
+Australia (2000) and Habilitation (Doctor of Science) from University of Nice Sophia
+Antipolis (2010) in Computer Science. Currently, he is a Director of Research at INRIA
+Sophia Antipolis, France. He is an associate editor of International Journal of Performance
+Evaluation, Probability in the Engineering and Informational Sciences, ACM TOMPECS,
+Stochastic Models and IEEE Network Magazine. He has won 5 best paper awards. His main
+research interests are Markov chains, Markov decision processes, stochastic games, matrix
+analysis and singular perturbations. He applies these methodological tools to the modeling
+and control of networks and to design data mining and machine learning algorithms. \n\n 
+
+
+
+
