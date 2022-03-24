@@ -11,6 +11,13 @@ The exercises consist of Python notebooks and a discussion forum (Slack): [https
 
 The seasonal school is also offered as the elective course [https://mycourses.aalto.fi/course/view.php?id=34761 CS-E407508] - "Special course in Machine learning and Data science: Networked Federated Learning" (2 credits) at Aalto University. You might be able to earn the credits also if you are enrolled as student at any university (of applied sciences) in Finland ([https://wiki.eduuni.fi/display/CSCJOOPAS/University+of+Helsinki+Instructions+regarding+the+home+university click here for more info]). 
 
+~~~
+== Exercises 
+Each exercise consists of a Python notebook that contains ready made starter code ("Demos") and some task descriptions in the end. You have to work on the exercises independently but are most welcome to ask questions on our school discussion forum (slack). 
+
+[Exercise_1.ipynb Notebook for Exercise 1]  {{&nbsp;&nbsp;}} [Exercise_2.ipynb Notebook for Exercise 2] {{&nbsp;&nbsp;}} [Exercise_3.ipynb Notebook for Exercise 3] 
+~~~
+
 
 
 == Lectures 
@@ -71,7 +78,7 @@ zoom link: TBA \n
 {}{img_left}{IreneS.jpg}{70}{140}{Dr. Irene Schicker}
 Dr. Irene Schicker, Central Institute for Meteorology and Geodynamics (ZAMG) \n
 
-Lecture: TBA\n
+Lecture: Machine Learning applications in meteorological forecasting - classics and where federated learning could be useful\n
 
 Date and Time: Thu., 31.03.2022 at 11:00 - 12:00 (local Helsinki time) \n
 
@@ -109,9 +116,9 @@ zoom link: TBA \n
 
 ~~~
 {}{img_left}{Anna.jpg}{70}{140}{Dipl. -Ing. Anna Saranti}
-Dipl. -Ing. Anna Saranti, Medical University Graz\n
+Dipl. -Ing. Anna Saranti, TU Graz and Medical University Graz\n
 
-Lecture: Explainable AI \n
+Lecture: [AnnaS.html Tackling the problem of “bad” explanations with the Human-in-the-Loop principle] \n
 
 Date and Time: Fr., 01.04.2022 at 11:00 - 12:00 (local Helsinki time) \n
 
@@ -120,10 +127,6 @@ zoom link: TBA \n
 [https://www.linkedin.com/in/dipl-ing-anna-saranti-865b7812a/ *Personal Site*] 
 ~~~
 
-== Exercises 
-Each exercise consists of a Python notebook that contains ready made starter code ("Demos") and some task descriptions in the end. You have to work on the exercises independently but are most welcome to ask questions on our school discussion forum (slack). 
-
-[Exercise_1.ipynb Notebook for Exercise 1]  {{&nbsp;&nbsp;}} [Exercise_2.ipynb Notebook for Exercise 2] {{&nbsp;&nbsp;}} [Exercise_3.ipynb Notebook for Exercise 3] 
 
 ~~~
 === Organizing Committee: 
@@ -146,6 +149,7 @@ Each exercise consists of a Python notebook that contains ready made starter cod
     <td>IEEE Vizag Bay Chapter COMSOC/SPS </td>
   </tr>
 </table>}}
+~~~
 
 === Acknowledgment 
 This seasonal school is supported by the IEEE Signal Processing Society and the Department of Computer Science at Aalto University. The school is also supported by the TalTech Industrial project. TalTech Industrial has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 952410. We also acknowledge support received from the Academy of Finland, via the project ‘‘Intelligent Techniques in Condition Monitoring of Electromechanical Energy Conversion Systems,’’ (decision number 331197). 
