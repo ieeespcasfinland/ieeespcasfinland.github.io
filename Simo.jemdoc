@@ -1,0 +1,15 @@
+= \n 2021 IEEE SPS Cycle 2 Virtual School on \n\n Networked Federated Learning: Theory, Algorithms and Applications \n\n 28.3. - 01.04.2022
+
+~~~
+{}{img_left}{SimoS.png}{70}{140}{Prof. Simo Särkkä}
+Prof. Simo Särkkä, Aalto University\n
+[https://users.aalto.fi/~ssarkka/ *Personal Site*] \n
+
+*Lecture*: Parallel/distributed methods for state-space models\n
+
+*Abstract*: State space models (SSMs), including Gaussian state space models and hidden Markov models (HMMs), are important tools in machine learning for time series data. Bayesian filters and smoothers as well as their special cases such as Kalman filters and smoothers are computationally optimal O(N) algorithms for learning and inference in these models on classical CPU architectures. However, in distributed and massively parallel setting, which appears in federated learning, they are no longer optimal, because they are inherently sequential algorithms. The aim of this lecture is to discuss distributed and parallel versions of these algorithms. The algorithms are based on so-called associative scans, which are computational primitives that can already be found, for example, in TensorFlow and JAX. These algorithms can be used to make state space learning and inference optimally parallelizable leading to parallel O(log N) span complexity.  \n 
+
+*Presenter*: Simo Särkkä is an Associate Professor with Aalto University and an Adjunct Professor with Tampere University and LUT University. He is also a Fellow of European Laboratory for Learning and Intelligent Systems (ELLIS) and the leader of AI Across Fields (AIX) program in Finnish Center for Artificial Intelligence (FCAI). His and his group's research interests are in multi-sensor data processing systems with applications in location sensing, health and medical technology, machine learning, inverse problems, and brain imaging. He has authored or coauthored around 150 peer-reviewed scientific articles and 3 books. \n\n 
+
+
+
