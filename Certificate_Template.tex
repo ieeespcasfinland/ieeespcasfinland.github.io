@@ -1,0 +1,11 @@
+\documentclass[12pt,landscape]{article}
+\usepackage{datatool} 
+
+\input{struct.tex} % tipos de ceritificados
+
+\DTLloaddb{names}{namelist.csv}
+
+\begin{document}
+	\pagestyle{empty}
+	\DTLforeach{names}{\name=name}{\para{\name}{IEEE Signal Processing Society Seasonal School on Networked Federated Learning: Theory, Algorithms and Applications}{mini}{6}{}}
+\end{document}

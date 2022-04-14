@@ -1,0 +1,58 @@
+Dear "Students", 
+
+Our IEEE Seasonal School on Networked Federated Learning starts tomorrow 
+
+* Mo., 28.03.2022 at 11:00- 13:00 (EET), in 
+
+https://aalto.zoom.us/j/64034033878?pwd=ayt4aDNyaEVSSGt1eHNNZFVFR2RoZz09 
+
+This lecture (which will be recorded!) discusses the logistics of our school as well as the 
+three exercises (Exercise 1,2,3) that we offer during the school. Exercise notebooks, along 
+with some instructions to setup a Python notebook environment on your local computer, can 
+now be found on our school site: 
+
+https://ieeespcasfinland.github.io/
+
+We are also privileged to have two award-winning teachers for Machine Learning with Python, 
+
+Dr. Yu Tian and Dr. Shamsiiat ("Shamsi") Abdurakhmanova 
+
+helping you via our discussion forum (Slack): 
+
+https://join.slack.com/t/ieeeseasonalschoolnfl/shared_invite/zt-167c885c0-p6Ygb1~J9F3im1sWMvfxaw
+
+Do not hesitate to post (or answer) questions on this discussion forum. 
+
+We have now also created a dedicated YouTube playlist for our school: 
+
+https://youtube.com/playlist?list=PLrbn2dGrLJK-1s3DTfi7ZXxaB5lkIRHHM
+
+
+Lecture Timetable: 
+==================
+all times are EET (local Helsinki time)
+lecture hall: https://aalto.zoom.us/j/64034033878?pwd=ayt4aDNyaEVSSGt1eHNNZFVFR2RoZz09 
+ 
+* Mo., 28.03.2022 at 11:00- 13:00, Prof. A. Jung, "School Logistics and Overview. Discussion of Exercises". 
+
+* Tue., 29.03.2022 at 11:00- 13:00, Prof. K. Avratchenkov, "Basics of spectral graph theory" 
+
+* Wed., 30.03.2022, 10:00 - 11:00, Prof. S. Särkkä, "Parallel/distributed methods for state-space models" 
+
+* Wed., 30.03.2022, 12:30 - 13:30, Dr. H. Tavakoli, "Towards Communication Efficient Federated Learning"
+
+* Thu., 31.03.2022 at 11:00 - 12:00. Dr. I. Schicker, "Machine Learning applications in meteorological forecasting"
+
+* Thu., 31.03.2022 at 13:00 - 14:00, Dr. W. Samek, "Towards Communication-Efficient and Personalized Federated Learning" 
+
+* Thu., 31.03.2022 at 14:30 - 15:30, Prof. C. Fischione, "Communication-Computation Efficient Distributed Machine Learning" 
+
+* Fr., 01.04.2022 at 11:00 - 12:00, Dipl.-Ing. A. Saranti, "Tackling the problem of “bad” explanations with the Human-in-the-Loop principle" 
+
+The lectures will be recorded and made available for the school participants on the 
+school site https://ieeespcasfinland.github.io/ and via our YouTube playlist: 
+https://youtube.com/playlist?list=PLrbn2dGrLJK-1s3DTfi7ZXxaB5lkIRHHM
+
+Do not hesitate to contact me by email (alex.jung@aalto.fi) in case of questions! 
+
+Alex
