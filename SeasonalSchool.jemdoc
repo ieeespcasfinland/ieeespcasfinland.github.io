@@ -1,0 +1,173 @@
+= 2021 IEEE SPS Cycle 2 Virtual School on \n Networked Federated Learning: Theory, Algorithms and Applications \n 28.3. - 01.04.2022. 
+
+== {{<a href="https://events.vtools.ieee.org/event/register/297208" target="_blank">Click here for a free registration.</a>}}  
+
+This school teaches theoretic underpinnings and practical algorithms for networked {{<a href="https://en.wikipedia.org/wiki/Federated_learning" target="_blank">federated learning (FL)</a>}}. Networked FL provides tailored (personalized) models for local datasets that are related by some {{<a href="https://en.wikipedia.org/wiki/Complex_network" target="_blank">complex network structure</a>}}. Such networked data arises in several important application domains such as pandemics, meteorology or the industrial internet of things. 
+
+== School Format 
+
+This school consists of virtual lectures (via zoom) and exercises. The lectures will be recorded and made available on this site as well as on this [https://youtube.com/playlist?list=PLrbn2dGrLJK-1s3DTfi7ZXxaB5lkIRHHM Youtube playlist]. The exercises consist of Python notebooks and a discussion forum (Slack): [https://join.slack.com/t/ieeeseasonalschoolnfl/shared_invite/zt-167c885c0-p6Ygb1~J9F3im1sWMvfxaw click here to join]
+
+The seasonal school is also offered as the elective course [https://mycourses.aalto.fi/course/view.php?id=34761 CS-E407508] - "Special course in Machine learning and Data science: Networked Federated Learning" (2 credits) at Aalto University. You might be able to earn the credits also if you are enrolled as student at any university (of applied sciences) in Finland ([https://wiki.eduuni.fi/display/CSCJOOPAS/University+of+Helsinki+Instructions+regarding+the+home+university click here for more info]). 
+
+~~~
+== Exercises 
+Each exercise consists of a Python notebook ([https://github.com/YuTian8328/IEEE_seasonal_school click here] for setting up notebook environment) that contains ready made starter code ("Demos") and some task descriptions in the end. You have to work on the exercises independently but are most welcome to ask questions on our school discussion forum (slack). 
+
+[Exercise_1.ipynb Notebook for Exercise 1]  {{&nbsp;&nbsp;}} [Exercise_2.ipynb Notebook for Exercise 2] {{&nbsp;&nbsp;}} [Exercise_3.ipynb Notebook for Exercise 3] 
+
+Exercise Support: [https://users.aalto.fi/~tiany4/ Dr. Yu Tian] {{&nbsp;&nbsp;&nbsp;}} [https://www.researchgate.net/profile/Shamsi-Abdurakhmanova Dr. Shamsiiat Abdurakhmanova] {{&nbsp;&nbsp;&nbsp;}} [DickCarillo.html Dick MSc. Dick Carrillo Melgarejo]
+
+~~~
+
+== Lectures (times are EEST, local Helsinki time)
+
+~~~
+{}{img_left}{AlexJ.jpg}{70}{140}{Prof. Alex Jung}
+Prof. Alex Jung, Aalto University\n
+
+Lecture: School Logistics. Introduction to Networked Federated Learning.  [https://github.com/ieeespcasfinland/ieeespcasfinland.github.io/blob/main/IEEESeasonalSchoolNFL.pdf slides]\n
+
+Date and Time: Mo., 28.03.2022 at 11:00- 13:00 (local Helsinki time) \n
+
+recording: [https://youtu.be/84hW2dyBl_s click here] \n
+
+slides: {{<a href="IEEESeasonalSchoolNFL.pdf" target="_blank"> click here </a>}} \n
+
+[https://users.aalto.fi/~junga1/ *Personal Site*] 
+~~~
+
+~~~
+{}{img_left}{Konstantin.png}{70}{140}{Prof. Konstantin Avratchenkov}
+Prof. Konstantin Avratchenkov, INRIA\n
+
+Lecture: [Konstantin.html Basics of spectral graph theory]\n
+
+Date and Time: Tue., 29.03.2022 at 11:00- 13:00 (local Helsinki time) \n
+
+slides: {{<a href="KonstantinSlides.pdf" target="_blank"> click here </a>}} 
+
+[https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html *Personal website*] 
+~~~
+
+~~~
+{}{img_left}{SimoS.png}{70}{140}{Prof. Simo Särkkä}
+Prof. Simo Särkkä, Aalto University\n
+
+Lecture: [Simo.html Parallel/distributed methods for state-space models] \n
+
+Date and Time: Wed., 30.03.2022, 10:00 - 11:00 (local Helsinki time) \n
+
+recording: {{<a href="https://youtu.be/JaTX_kN1oZA" target="_blank"> click here </a>}} 
+
+slides: {{<a href="SimoSlides.pdf" target="_blank"> click here </a>}}
+
+[https://users.aalto.fi/~ssarkka/ *Personal Site*] 
+~~~
+
+~~~
+{}{img_left}{hamed.jpg}{70}{140}{Dr. Hamed R. Tavakoli}
+Dr. Hamed R. Tavakoli, Nokia Technologies\n
+
+Lecture: [Hamed.html Compact and Efficient Neural Networks, Steps Towards Communication Efficient Federated Learning]\n
+
+Date and Time: Wed., 30.03.2022, 12:30 - 13:30 (local Helsinki time) \n
+
+recording: {{<a href="https://youtu.be/TUmMbo6PdME" target="_blank"> click here </a>}} 
+
+[https://fi.linkedin.com/in/hrtavakoli *Personal Site*] 
+~~~
+
+~~~
+{}{img_left}{IreneS.jpg}{70}{140}{Dr. Irene Schicker}
+Dr. Irene Schicker, Central Institute for Meteorology and Geodynamics (ZAMG) \n
+
+Lecture: [IreneS.html Machine Learning applications in meteorological forecasting - classics and where federated learning could be useful]\n
+
+Date and Time: Thu., 31.03.2022 at 11:00 - 12:00 (local Helsinki time) \n
+
+recording: {{<a href="https://youtu.be/jcqPtaNUWB0" target="_blank"> click here </a>}} 
+
+slides: {{<a href="IreneSlides.pdf" target="_blank"> click here </a>}}
+
+[https://at.linkedin.com/in/irene-schicker-45701ab9 *Personal Site*] 
+~~~
+
+
+~~~
+{}{img_left}{wojciech.jpg}{70}{140}{Dr. Wojciech Samek}
+Dr. Wojciech Samek, Fraunhofer Heinrich Hertz Institute \n
+
+Lecture: [Samek.html Towards Communication-Efficient and Personalized Federated Learning]\n
+
+Date and Time: Thu., 31.03.2022 at 13:00 - 14:00 (local Helsinki time) \n
+
+recording: {{<a href="https://youtu.be/xojRqrJlceo" target="_blank"> click here </a>}} 
+
+slides: {{<a href="SamekSlides.pdf" target="_blank"> click here </a>}}
+
+[http://iphome.hhi.de/samek/ *Personal Site*] 
+~~~
+
+~~~
+{}{img_left}{CarloF.jpg}{70}{140}{Prof. Carlo Fischione}
+Prof. Carlo Fischione, KTH Stockholm\n
+
+Lecture: [CarloF.html Communication-Computation Efficient Distributed Machine Learning] \n
+
+Date and Time: Thu., 31.03.2022 at 14:30 - 15:30 (local Helsinki time) \n
+
+recording: {{<a href="https://youtu.be/J8RDrgD3pb0" target="_blank"> click here </a>}} 
+
+slides: {{<a href="CarloSlides.pdf" target="_blank"> click here </a>}}
+
+paper: {{<a href="CarloPaper.pdf" target="_blank"> click here </a>}}
+
+[https://people.kth.se/~carlofi/ *Personal Site*] 
+~~~
+
+~~~
+{}{img_left}{Anna.jpg}{70}{140}{Dipl. -Ing. Anna Saranti}
+Dipl. -Ing. Anna Saranti, TU Graz and Medical University Graz\n
+
+Lecture: [AnnaS.html Tackling the problem of “bad” explanations with the Human-in-the-Loop principle] \n
+
+Date and Time: Fr., 01.04.2022 at 11:00 - 12:00 (local Helsinki time) \n
+
+recording: {{<a href="https://youtu.be/FnxgNgYyPws" target="_blank"> click here </a>}} \n
+
+slides: {{<a href="AnnaSlides.pdf" target="_blank"> click here </a>}} \n 
+
+[https://www.linkedin.com/in/dipl-ing-anna-saranti-865b7812a/ *Personal Site*] 
+~~~
+
+
+~~~
+=== Organizing Committee: 
+
+{{<table style="border:hidden;">
+    <th> 
+<a href="https://users.aalto.fi/~junga1/" target="_blank"> Dr. Alex Jung</a>
+</th>
+ <th> <a href="https://users.aalto.fi/~ssarkka/" target="_blank"> Dr. Simo Särkkä</a> </th>
+  <th> <a href="https://jntukucev.ac.in/department/electronics-communication-engineering/dr-tummala-surya-narayana-murthy/" target="_blank"> Dr. T.S.N. Murthy </a> </th>
+  </tr>
+  <tr style="border:hidden;" align="left">
+    <td style="text-align:left">Ass. Prof. at Aalto U.</td>
+    <td style="text-align:left">Assoc. Prof. at Aalto U.</td>
+    <td style="text-align:left">Ass. Prof. JNTUK Vizianagaram </td>
+  </tr>
+  <tr style="border:hidden;">
+    <td>IEEE Finland Chapter SP/CAS</td>
+    <td>IEEE Finland Chapter CSS/RAS/SMCS</td>
+    <td>IEEE Vizag Bay Chapter COMSOC/SPS </td>
+  </tr>
+</table>}}
+~~~
+
+=== Acknowledgment 
+This seasonal school is supported by the IEEE Signal Processing Society and the Department of Computer Science at Aalto University. The school is also supported by the TalTech Industrial project. TalTech Industrial has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 952410. We also acknowledge support received from the Academy of Finland, via the project ‘‘Intelligent Techniques in Condition Monitoring of Electromechanical Energy Conversion Systems,’’ (decision number 331197). 
+
+ {{ <img src="SPS_Logo_Color_RGB.png" alt="logo" height="100"> <img src="aaltologo.png" alt="logo" height="100"> <img src="horizon2020.png" alt="logo" height="100">  <img src="AoFLogo.png" alt="logo" height="100"> }}  
+
+
