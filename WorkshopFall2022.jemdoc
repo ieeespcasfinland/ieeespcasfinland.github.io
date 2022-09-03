@@ -3,18 +3,24 @@
 == {{<a href="" target="_blank">Click here for a free registration.</a>}}  
 
 This workshop is organized by the IEEE Finland Jt. Chapter SP/CAS and consists of expert talks as well as a best paper award. It is 
-implemented as a hybrid event, with the in-person component taking place at Aalto University in Otaniemi, Espoo. 
+implemented as a hybrid event, with the in-person component taking place in the lecture hall [https://venuu.fi/en/venues/dipoli-lumituuli Limituuli] at Aalto University, Otaniemi, Espoo. 
 
 == Schedule (times are EEST, local Helsinki time)
 
 ~~~
-09:00 am, [https://venuu.fi/en/venues/dipoli-lumituuli Hall Limituuli]
-Welcome to the Workshop and Chapter Report. \n 
+09:00 am \n 
+*Welcome to the Workshop and Chapter Report.* \n 
 [https://users.aalto.fi/~junga1/ *Chapter Chair Alexander Jung*]  \n
-
 zoom link: TBA \n
+~~~
 
-
+~~~
+10:00 am \n 
+*Neighborhood Representative for Improving Outlier Detectors* \n
+Dr. Jiawei Yang \n 
+*Abstract.*
+Over the decades, traditional outlier detectors have ignored the group-level factor when calculating outlier scores for objects in data by evaluating only the object-level factor, failing to capture the collective outliers. To mitigate this issue, we present a method called neighborhood representative (NR), which empowers all the existing outlier detectors to efficiently detect outliers, including collective outliers, while maintaining their computational integrity. It achieves this by selecting representative objects, scoring these objects, then applies the score of the representative objects to its collective objects. Without altering existing detectors, NR is compatible with existing detectors, while improving performance on eleven real world datasets with +8% (0.72 to 0.78 AUC) on average relative to twelve state-of-the-art outlier detectors.\n
+zoom link: TBA
 ~~~
 
 ~~~
