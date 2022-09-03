@@ -8,27 +8,27 @@ implemented as a hybrid event, with the in-person component taking place at Aalt
 == Schedule (times are EEST, local Helsinki time)
 
 ~~~
-{}{img_left}{AlexJ.jpg}{70}{140}{Prof. Alex Jung}
-Prof. Alex Jung, Aalto University\n
+Welcome to the Workshop and Chapter Report. \n 
+[https://users.aalto.fi/~junga1/ *Chapter Chair Alexander Jung*] 
 
-Welcome and Chapter Overview. 
+date and time: 05-Oct-2022, 09:00 am \n
+location: https://venuu.fi/en/venues/dipoli-lumituuli 
+zoom Link: TBA 
 
-Date and Time: 05-Oct-2022, 09:00 am \n
-
-recording: [https://youtu.be/84hW2dyBl_s click here] \n
+recording: [ click here] \n
 
 slides: {{<a href="IEEESeasonalSchoolNFL.pdf" target="_blank"> click here </a>}} \n
 
-[https://users.aalto.fi/~junga1/ *Personal Site*] 
+
 ~~~
 
 ~~~
 
 === Acknowledgment 
-This workshop is supported by the IEEE Signal Processing Society and the Department of Computer Science at Aalto University. 
-The school is also supported by the TalTech Industrial project. TalTech Industrial has received funding from the European Union’s Horizon 2020 
-research and innovation programme under grant agreement No 952410. We also acknowledge support received from the Academy of Finland, 
-via the project ‘‘Intelligent Techniques in Condition Monitoring of Electromechanical Energy Conversion Systems,’’ (decision number 331197). 
+This workshop is supported by the IEEE Signal Processing Society and the Department of Computer Science at Aalto University and 
+TalTech Industrial project (European Union’s Horizon 2020 research and innovation programme under grant agreement No 952410). We 
+also acknowledge support received from the Academy of Finland, via the project 
+‘‘Intelligent Techniques in Condition Monitoring of Electromechanical Energy Conversion Systems,’’ (decision number 331197). 
 
  {{ <img src="SPS_Logo_Color_RGB.png" alt="logo" height="100"> <img src="aaltologo.png" alt="logo" height="100"> <img src="horizon2020.png" alt="logo" height="100">  <img src="AoFLogo.png" alt="logo" height="100"> }}  
 
