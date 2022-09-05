@@ -30,6 +30,16 @@ Dr. Zitong Yu
 ~~~
 
 ~~~
+14:00 - 16:00 pm \n 
+*Deep-Learning for the Physical Layer with Sionna* \n
+
+
+*Abstract.* Sionna is an open-source, GPU-accelerated, and fully differentiable link-level simulator for 6G research. One of its main features is automatic gradient computation through an entire end-to-end system which allows for seamless integration and training of neural networks. After a short introduction explaining the motivation behind Sionna, its features and design principles, I will discuss several of our recent research results, including synchronization for NB-IoT as well as GNN-based channel decoding. \n 
+
+Dr. Jakob Hoydis
+~~~
+
+~~~
 
 === Acknowledgment 
 This workshop is supported by the IEEE Signal Processing Society and the Department of Computer Science at Aalto University and 
