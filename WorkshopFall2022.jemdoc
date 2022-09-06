@@ -10,15 +10,15 @@ implemented as a hybrid event, with the in-person component taking place in the 
 ~~~
 09:00 - 10:00 am \n 
 *Welcome to the Workshop and Chapter Report.* \n 
-[https://users.aalto.fi/~junga1/ *Chapter Chair Alexander Jung*]  \n
+[https://users.aalto.fi/~junga1/ Chapter Chair Alexander Jung]  \n
 zoom link: TBA \n
 ~~~
 
 ~~~
 10:00 -- 11:00 am \n 
-*Neighborhood Representative for Improving Outlier Detectors* \n
-Dr. Jiawei Yang \n 
-*Abstract.*
+*Title:* Neighborhood Representative for Improving Outlier Detectors \n
+*Speaker:* Dr. Jiawei Yang \n 
+*Abstract:*
 Over the decades, traditional outlier detectors have ignored the group-level factor when calculating outlier scores for objects in data by evaluating only the object-level factor, failing to capture the collective outliers. To mitigate this issue, we present a method called neighborhood representative (NR), which empowers all the existing outlier detectors to efficiently detect outliers, including collective outliers, while maintaining their computational integrity. It achieves this by selecting representative objects, scoring these objects, then applies the score of the representative objects to its collective objects. Without altering existing detectors, NR is compatible with existing detectors, while improving performance on eleven real world datasets with +8% (0.72 to 0.78 AUC) on average relative to twelve state-of-the-art outlier detectors.\n
 zoom link: TBA
 ~~~
@@ -34,8 +34,6 @@ Dr. Zitong Yu
 *Title:* Deep-Learning for the Physical Layer with Sionna \n
 *Speaker:* Dr. Jakob Hoydis \n
 *Abstract:* Sionna is an open-source, GPU-accelerated, and fully differentiable link-level simulator for 6G research. One of its main features is automatic gradient computation through an entire end-to-end system which allows for seamless integration and training of neural networks. After a short introduction explaining the motivation behind Sionna, its features and design principles, I will discuss several of our recent research results, including synchronization for NB-IoT as well as GNN-based channel decoding. \n 
-
-
 ~~~
 
 ~~~
